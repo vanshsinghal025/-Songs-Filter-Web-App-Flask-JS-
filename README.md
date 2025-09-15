@@ -9,5 +9,3 @@ and play them directly in the browser. Only one audio plays at a time.
 - Dynamic data loading from JSON
 - One-audio-at-a-time playback
 - Responsive UI
-
-## 📂 Project Structure
