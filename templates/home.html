@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %} Home | Page {% endblock %}
+
+{% block content %}
+
+<div class="filter-songs">
+    <button class="get-song-btn" data-songcategory="all">🎧</button>
+    <button class="get-song-btn" data-songcategory="happy">😊</button>
+    <button class="get-song-btn" data-songcategory="sad">😭</button>
+    <button class="get-song-btn" data-songcategory="motivational">💪</button>
+    <button class="get-song-btn" data-songcategory="romantic">❤️</button>
+</div>
+<div id="songs-container">
+    <!-- <div class="song">
+        <div class="song-name">Tum Hi Ho</div>
+        <div class="song-artist">Arijit Singh</div>
+        <audio src="" class="audio-player" controls></audio>
+    </div>
+    <div class="song">
+        <div class="song-name">Tum Hi Ho</div>
+        <div class="song-artist">Arijit Singh</div>
+        <audio src="" class="audio-player" controls></audio>
+    </div> -->
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js' )}}"></script>
+
+{% endblock %}

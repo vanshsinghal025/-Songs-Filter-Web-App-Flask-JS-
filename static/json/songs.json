@@ -1,0 +1,90 @@
+{
+    "romantic" : {
+        "Tum Mile" : {
+            "artist" : "Neeraj Shridhar",
+            "url" : "/static/songs/Romantic/Tum Mile.mp3"
+        },
+        "Raabta" : {
+            "artist" : "Arijit Singh",
+            "url" :"/static/songs/Romantic/Raabta.mp3"
+        },
+        "Tera Ban Jaunga" : {
+            "artist" : "Akhil Sachdeva, Tulsi Kumar",
+            "url" : "/static/songs/Romantic/Tera Ban Jaunga.mp3"
+        },
+        "Tum Hi Ho" : {
+            "artist" : "Arijit Singh",
+            "url" :"/static/songs/Romantic/Tum Hi Ho.mp3"
+        },
+        "Raanjhana" : {
+            "artist" : "Jaswinder Singh, Shiraz Uppal",
+            "url" : "/static/songs/Romantic/Raanjhana.mp3"
+        }
+    },
+    "happy" : {
+        "Dil Dhadakne Do" : {
+            "artist" : "Joi Barua, Suraj Jaga, Shankar Mahadevan",
+            "url" : "/static/songs/Happy/Dil Dhadakne Do.mp3"
+        },
+        "Gallan Goodiyan" : {
+            "artist" : "Farhan Akhtar, Shankar Mahadevan, Sukhwinder Singh, Manish Kumar Tipu, Yashita Sharma",
+            "url" :"/static/songs/Happy/Gallan Goodiyan.mp3"
+        },
+        "London Thumakda" : {
+            "artist" : "Labh Januja, Sonu Kakkar, Neha Kakkar",
+            "url" : "/static/songs/Happy/London Thumakda.mp3"
+        },
+        "Tera Yaar Hoon Main" : {
+            "artist" : "Arijit Singh",
+            "url" :"/static/songs/Happy/Tera Yaar Hoon Main.mp3"
+        },
+        "Ilahi" : {
+            "artist" : "Arijit Singh",
+            "url" :"/static/songs/Happy/Ilahi.mp3"
+        }
+    },
+    "sad" : {
+        "Channa Mereya" : {
+            "artist" : "Arijit Singh",
+            "url" : "/static/songs/Sad/Channa Mereya.mp3"
+        },
+        "Tujhe Bhula Diya" : {
+            "artist" : "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+            "url" : "/static/songs/Sad/Tujhe Bhula Diya.mp3"
+        },
+        "Agar Tum Saath Ho" : {
+            "artist" : "Alka Yagnik, Arijit Singh",
+            "url" : "/static/songs/Sad/Agar Tum Saath Ho.mp3"
+        },
+        "Phir Le Aaya Dil" : {
+            "artist" : "Rekha Bhardwaj / Ariit Singh (two versions)",
+            "url" : "/static/songs/Sad/Phir Le Aaya Dil.mp3"
+        },
+        "Tadap Tadap" : {
+            "artist" : "KK",
+            "url" :"/static/songs/Sad/Tadap Tadap.mp3"
+        }
+    },
+    "motivational" : {
+        "Kar Har Maidan Fateh" : {
+            "artist" : "Shreya Ghosal, Sukhwinder Singh",
+            "url" :"/static/songs/Motivational/Kar Har Maidan Fateh.mp3"
+        },
+        "Zinda" : {
+            "artist" : "Siddharth Mahadevan",
+            "url" :"/static/songs/Motivational/Zinda.mp3"
+        },
+        "Chak De India" : {
+            "artist" : "Sukhwinder Singh",
+            "url" : "/static/songs/Motivational/Chak De India.mp3"
+        },
+        "Lakshya" : {
+            "artist" : "Shankar Mahadevan",
+            "url" : "/static/songs/Motivational/Lakshya.mp3"
+        },
+        "Ziddi Dil" : {
+            "artist" : "Vishal Dadlani",
+            "url" :"/static/songs/Motivational/Ziddi Dil.mp3"
+        }
+    }
+}
