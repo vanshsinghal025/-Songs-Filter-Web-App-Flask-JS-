@@ -8,4 +8,3 @@ and play them directly in the browser. Only one audio plays at a time.
 - Filter songs by category
 - Dynamic data loading from JSON
 - One-audio-at-a-time playback
-- Responsive UI
